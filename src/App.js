@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <div className="App" >master</div>
+    <div className="App" >todolist</div>
   );
 }
 
